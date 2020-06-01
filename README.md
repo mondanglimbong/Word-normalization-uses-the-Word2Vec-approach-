@@ -6,7 +6,8 @@ Memperbaiki kata yang tidak baku dari kolom comments dalam korpus DbNews agar me
   2. Putri Indah Sari (11S16039)
   
   3. Rumondang Limbong (11S16054)
-
+  
+  
 1. Judul: Normalisasi Kata Menggunakan Pendekatan Word2Vec
 
 2. link google drive video yang berisi presentasi:
