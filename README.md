@@ -1,6 +1,6 @@
 Word normalization uses the Word2Vec approach 
 
-Memperbaiki kata yang tidak baku dari kolom comments dalam korpus DbNews agar menjadi baku. Program ini dibuat untuk memenuhi proyek akhir dari matakuliah Pembelajaran Mesin Program ini disusun oleh Kelompok 14:
+Memperbaiki kata yang tidak baku dari kolom comments dalam korpus DbNews agar menjadi baku. Program ini dibuat untuk memenuhi proyek akhir dari matakuliah Pembelajaran Mesin Program ini disusun oleh kelompok yang beranggotakan:
     
     Andreas Siahaan (11S16002)
   
