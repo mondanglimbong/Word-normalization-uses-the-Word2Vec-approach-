@@ -1,11 +1,11 @@
 Word normalization uses the Word2Vec approach 
 
 Memperbaiki kata yang tidak baku dari kolom comments dalam korpus DbNews agar menjadi baku. Program ini dibuat untuk memenuhi proyek akhir dari matakuliah Pembelajaran Mesin Program ini disusun oleh Kelompok 14:
-  1. Andreas Siahaan (11S16002)
+    Andreas Siahaan (11S16002)
   
-  2. Putri Indah Sari (11S16039)
+    Putri Indah Sari (11S16039)
   
-  3. Rumondang Limbong (11S16054)
+    Rumondang Limbong (11S16054)
   
   
 1. Judul: Normalisasi Kata Menggunakan Pendekatan Word2Vec
