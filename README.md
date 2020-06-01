@@ -1,4 +1,6 @@
-# Word-normalization-uses-the-Word2Vec-approach-
+#Word-normalization-uses-the-Word2Vec-approach-
+
+Program ini dibuat untuk memenuhi tugas akhir dari matakuliah Pembelajaran Mesin Program ini disusun oleh Kelompok 14:
 Andreas Siahaan (11S16002)
 Putri Indah Sari (11S16039)
 Rumondang Limbong (11S16054)
